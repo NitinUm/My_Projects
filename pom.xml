@@ -9,7 +9,7 @@
 		<version>3.3.0</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>in.his_plans</groupId>
+	<groupId>in.his_plans_1</groupId>
 	<artifactId>01_Plans_Api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>01_Plans_Api</name>
